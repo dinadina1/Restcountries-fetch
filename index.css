@@ -1,0 +1,13 @@
+card-img-top{
+    height: 50px;
+    width: fit-content;
+}
+.row{
+    row-gap: 20px;
+}
+.card-body{
+    font-weight: 500;
+}
+.card-header{
+    font-weight: bold;
+}
